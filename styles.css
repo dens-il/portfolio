@@ -464,23 +464,6 @@ a {
   border-left: 11px solid currentColor;
 }
 
-.soon-badge {
-  position: absolute;
-  left: 18px;
-  bottom: 18px;
-  z-index: 3;
-  padding: 11px 15px;
-  border: 1px solid rgba(232, 180, 90, 0.46);
-  border-radius: 6px;
-  color: #ffe0a2;
-  background: rgba(9, 10, 11, 0.78);
-  font-size: 14px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  backdrop-filter: blur(12px);
-}
-
 .case-content {
   display: flex;
   flex-direction: column;
